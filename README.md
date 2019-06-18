@@ -8,6 +8,9 @@
 3.不同的操作界面封装成不同 vue 组件，通过 vue-router 进行跳转
 4.界面之间可以进行通信：如删除用户后会跳转到主页并显示\*\*用户已被删除
 
+
+![](https://github.com/yzhang2294/customers-VUE-/blob/master/gitImage/mian.png)
+
 ## Build Setup
 
 ```bash
